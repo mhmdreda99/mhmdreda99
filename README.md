@@ -8,5 +8,4 @@
 I'm a software developer who is passionate about creating technology to elevate people And experienced embedded SW engineer working for complete embedded product life-cycle development. I have been contributing for 2+ years in embedded systems
 
 - 🔭 I'm a software developer
-- 🔍 I have 2 live apps: 
-  
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
