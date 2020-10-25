@@ -1,10 +1,15 @@
 ### Hi, I'm Mohamed Reada 👋
 
-I'm a Embedded Software Development Engineer and  🤖⚙️ 
-
+Enthusiastic person about embedded devices and control systems, Also a technical author with solid knowledge in Linux, C programming, RealTime systems, Hardware reverse engineering, Machine learning and AI
 
 - 🌱 I’m currently learning Embedded systems development and Ai 
-
+**Technical Fields of Interest** <br/>
+- AI, Machine Learning & Deep Learning
+- Software & System Design
+- Scientific Programming & Simulations
+- a little Bit Web Development
+- Computer Vision
+- Pcb Design
 
 Here are my GitHub stats:
 
@@ -17,15 +22,6 @@ Feel free to reach out to me for support via
 - Facebook: https://www.facebook.com/muhmdreda99
 - Gmail :Muhmmed.reda99@gmail.com
 - Twitter :https://twitter.com/mhmd_reda_
-
-
-**Technical Fields of Interest** <br/>
-- AI, Machine Learning & Deep Learning
-- Software & System Design
-- Scientific Programming & Simulations
-- a little Bit Web Development
-- Computer Vision
-- Pcb Design
 
 
 
