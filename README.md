@@ -1,17 +1,16 @@
-<<<<<<< HEAD
 <h1 align="left">Hi 👋, I'm Mohamed Reda</h1>
 
 <h3 align="center">A passionate Embedded software developer 🤖⚙️ from Egypt</h3>
-
+Enthusiastic person about embedded devices and control systems, Also a technical author with solid knowledge in Linux, C programming, RealTime systems, Hardware reverse engineering, Machine learning and AI
 - 🌱 I’m currently learning Embedded systems development and Ai 
 
 =======
 ### Hi, I'm Mohamed Reada 👋
 
-Enthusiastic person about embedded devices and control systems, Also a technical author with solid knowledge in Linux, C programming, RealTime systems, Hardware reverse engineering, Machine learning and AI
+
 
 - 🌱 I’m currently learning Embedded systems development and Ai 
->>>>>>> 9765fa4b91565aca77d1d1d656ecc091a17a7ddc
+
 **Technical Fields of Interest** <br/>
 - AI, Machine Learning & Deep Learning
 - Software & System Design
