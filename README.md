@@ -24,7 +24,7 @@ Here are my GitHub stats:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mhmd_reda_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mhmd_reda_" height="30" width="40" /></a>
+<a href="https://twitter.com/mhmdreda_99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mhmd_reda_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mhmdreda99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mhmdreda99" height="30" width="40" /></a>
 <a href="https://fb.com/mhmdreda99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mhmdreda99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mhmdreda99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mhmdreda99" height="30" width="40" /></a>
