@@ -2,6 +2,8 @@
 
 <h3 align="left">A passionate Embedded software developer 🤖⚙️ from Egypt</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdreda99&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdreda99" /> </p>
+
 - 🌱 I’m currently learning Embedded systems development and Ai 
 
 **Technical Fields of Interest** <br/>
