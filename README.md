@@ -23,13 +23,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mohamed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mohamed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mhmdreda99&show_icons=true&hide_border=true" />
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Mohamed's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdreda99" />
 
 </details>
 
@@ -43,11 +43,5 @@
 </p>
 
 
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="300" /> 
-
-
-
-<<<<<<< HEAD
-=======
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="400" /> 
->>>>>>> f79f98c49bcceea28920c76c6d7a18928cc2446c
+
