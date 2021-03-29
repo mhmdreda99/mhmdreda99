@@ -47,3 +47,7 @@
 
 
 
+<<<<<<< HEAD
+=======
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="400" /> 
+>>>>>>> f79f98c49bcceea28920c76c6d7a18928cc2446c
