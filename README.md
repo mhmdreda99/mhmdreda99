@@ -36,9 +36,6 @@ Here are my GitHub stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdreda99&show_icons=true&locale=en&layout=compact" alt="mhmdreda99" /></p>
 
-<p align="center"> 
-  **Visitor count**<br>
-  <img src="https://profile-counter.glitch.me/mhmdreda99/count.svg" />
-</p>
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="300" /> 
